@@ -1,5 +1,5 @@
 # IO-PrincipiaGravityModels
-A set of configs to give axial tilt, for use in ***Principia***.
+A set of configs to give axial tilt, for use in ***Principia***. (Stability tested to ~5,000 years).
 
 Most axial tilts were chosen arbitrarily. Many are designed to resemble their body's real-life analogues, but there exists varying degrees of faithfulness in their representations. In other cases, tidally locked-bodies were given axial tilts to match their orbits. 
 
