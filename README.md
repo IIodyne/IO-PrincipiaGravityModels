@@ -12,7 +12,7 @@ In the same vein, please note that such systems that replace the stock Kerbin an
 If you wish to make your own gravity model, follow the format I have provided, the config included in ***Principia*** (***Principia/real_solar_system/gravity_model.cfg***), or the ***Principia*** wiki (https://github.com/mockingbirdnest/Principia/wiki/Principia-configuration-files#the-principia_gravity_model-configuration).
 
 
-Lastly, while included, the config for ***GEP*** may or may not cause incorrect *reference_angle* (*initialRotation*) states for ***GEP*** bodies (which, if an issue, can be fixed by enabling the variable assignment and finding the correct phase shift). Such a case presented itself when making the ***Kcalbeloh*** config, wherein the phase shift was -90. ***Principia*** does not seem to note this issue, and believes 0 is the correct value for *reference_angle* to give an *initialRotation* of also 0. I believe this is only an issue in added star systems.
+Lastly, while included, the configs for ***GEP*** and/or ***Extrasolar*** may or may not cause incorrect *reference_angle* (*initialRotation*) states for their respective bodies (which, if an issue, can be fixed by enabling the variable assignment and finding the correct phase shift). Such a case presented itself when making the ***Kcalbeloh*** config, wherein the phase shift was -90. ***Principia*** does not seem to note this issue, and believes 0 is the correct value for *reference_angle* to give an *initialRotation* of also 0. I believe this is only an issue in added star systems.
 
 At the present moment I also have no intention to confirm this issue nor fix it, and I do not plan to maintain the configs for ***GEP (v1.2.8)*** or ***Kcalbeloh (v1.0.1)*** henceforth.
 
